@@ -1,0 +1,16 @@
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.csprojAssemblyReference.cache
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.AssemblyInfoInputs.cache
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.AssemblyInfo.cs
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.csproj.CoreCompileInputs.cache
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank.deps.json
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank.runtimeconfig.json
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank.runtimeconfig.dev.json
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank.dll
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/ref/AppBank.dll
+/home/souzaa/Documentos/teste/Bank/AppBank/bin/Debug/net5.0/AppBank.pdb
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.dll
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/ref/AppBank.dll
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.pdb
+/home/souzaa/Documentos/teste/Bank/AppBank/obj/Debug/net5.0/AppBank.genruntimeconfig.cache
